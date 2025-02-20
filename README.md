@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="[IMG_0694.HEIC](https://github.com/boeing23/assets/blob/main/IMG_0694.HEIC)" alt="Your Profile Picture" width="150"/>
-</p>
 
 # Yashodhan Deepak Hakke
 
@@ -21,7 +18,7 @@
 ---
 
 ## 📄 Resume
-[Download Resume](./path/to/your/resume.pdf)
+[Download Resume](https://github.com/boeing23/assets/blob/main/Yashodhan%20CV%2014-02.pdf)
 
 ---
 
