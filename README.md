@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/boeing23/assets/blob/main/luffy.png" alt="Your Profile Picture" width="150"/>
+  <img src="https://github.com/boeing23/assets/blob/main/luffy.png" alt="Your Profile Picture" width="400"/>
 </p>
 
 # Yashodhan Deepak Hakke
