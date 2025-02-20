@@ -1,9 +1,7 @@
-<p align="center">
-  <div style="width: 150px; height: 150px; border-radius: 50%; overflow: hidden; border: 5px solid #fff;">
-    <img src="https://github.com/boeing23/assets/blob/main/luffy.jpg?raw=true" alt="Your Profile Picture" width="150" height="150" style="object-fit: cover;"/>
-  </div>
-</p>
 
+<p align="center">
+  <img src="https://github.com/boeing23/assets/blob/main/luffy.png" alt="Your Profile Picture" width="150"/>
+</p>
 
 # Yashodhan Deepak Hakke
 
