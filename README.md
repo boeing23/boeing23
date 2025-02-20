@@ -5,17 +5,18 @@
 # Yashodhan Deepak Hakke
 
 ## 🙋‍♂️ About Me
-- **Engineer** | **Tech Lover**  
-- I build cool things.  
-- Passionate about **AI** and **Machine Learning**.  
-- Always experimenting with new tech.
+- **Engineer** focused on **AI** and **Machine Learning**  
+- If I had to tell my chart toppers:  
+  - **Anime**: *One Piece*  
+  - **Book**: *Thinking, Fast and Slow*  
+  - **Motorcycle**: *Indian Scout*  
 
 ---
 
-## 🎶 My Song Inspiration
+## 🎶 My Jam
 **"Rich Spirit" by Kendrick Lamar**  
-- Life = Growth & Self-Awareness  
-👉 [Watch on YouTube](https://www.youtube.com/watch?v=4V9Y4iJ7t0I)
+- A journey of evolution & inner clarity
+👉 [Watch on YouTube](https://www.youtube.com/watch?v=hl3-ZPg-JAA)
 
 ---
 
