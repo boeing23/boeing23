@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="https://github.com/boeing23/assets/blob/main/logoML.jpg" alt="Your Profile Picture" width="150"/>
+</p>
 # Yashodhan Deepak Hakke
 
 ## 🙋‍♂️ About Me
