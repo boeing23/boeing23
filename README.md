@@ -1,7 +1,8 @@
-
+https://github.com/boeing23/assets/blob/main/luffy.jpg
 <p align="center">
-  <img src="https://github.com/boeing23/assets/blob/main/logoML.jpg" alt="Your Profile Picture" width="700"/>
+  <img src="https://github.com/boeing23/assets/blob/main/luffy.jpg" alt="Your Profile Picture" width="150" style="border-radius: 50%; border: 5px solid #fff;"/>
 </p>
+
 # Yashodhan Deepak Hakke
 
 ## 🙋‍♂️ About Me
