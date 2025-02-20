@@ -23,5 +23,5 @@
 ---
 
 ## 🌐 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/yashodhan-deepak-hakke/)
+- [LinkedIn](https://www.linkedin.com/in/yashodhan-deepak-hakke/)
 - [GitHub](https://github.com/boeing23)
