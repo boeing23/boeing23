@@ -1,14 +1,30 @@
+# Yashodhan Deepak Hakke
 
-# Hi, I'm Yashodhan Hakke 👋
+**Phone:** 540-824-9994  
+**Email:** [yashodhan@vt.edu](mailto:yashodhan@vt.edu)  
+**LinkedIn:** [linkedin.com/in/yashodhan-deepak-hakke/](https://www.linkedin.com/in/yashodhan-deepak-hakke/)  
+**GitHub:** [boeing23](https://github.com/boeing23)
 
-I'm a Machine Learning Engineer who thrives on solving challenges with AI and drawing inspiration from the world of anime. Like my favorite anime heroes, I’m always pushing the limits—whether it’s coding or chasing the thrill of motorcycling. When I'm not building deep learning models, you’ll find me on a ride, feeling the wind and embracing the adventure. My top anime picks? *One Piece* and *Vinland Saga*—both inspire my drive to explore new horizons. Let's connect and embark on an exciting journey together!
+---
 
-### 🚀 Technologies & Tools:
-![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+## Bio
 
-### 🔥 Featured Projects:
-- **[Image Caption Generator](https://github.com/username/image-caption-generator)**: A deep learning model that generates image captions using a CNN-based approach.
-- **[Anime Recommendation System](https://github.com/username/anime-recommender)**: Personalized anime recommendations based on user preferences.
+I am a **Machine Learning Engineer** with a passion for building innovative solutions that push boundaries. I love to create, whether it's in the form of code, hardware, or thought. My goal is to apply my skills in the field of AI and tech to help solve complex problems and make the world a better place. I enjoy learning, experimenting, and growing, just like my journey with technology.
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashodhan)
+---
+
+## My Song Inspiration 🎵
+
+**"Rich Spirit" by Kendrick Lamar**  
+This song explores the lifelong process of spiritual growth, emphasizing how self-awareness, growth, and resilience shape one's journey. It's a reflection on navigating life's ups and downs, finding strength, and embracing change.
+
+You can listen to it here:  
+[Watch on YouTube](https://www.youtube.com/watch?v=4V9Y4iJ7t0I)
+
+---
+
+## Resume
+
+You can download my full resume here:
+
+[Resume PDF](./path/to/your/resume.pdf)
