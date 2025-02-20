@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-image-url.com](https://github.com/boeing23/assets)" alt="Your Profile Picture" width="150"/>
+  <img src="[IMG_0694.HEIC](https://github.com/boeing23/assets/blob/main/IMG_0694.HEIC)" alt="Your Profile Picture" width="150"/>
 </p>
 
 # Yashodhan Deepak Hakke
