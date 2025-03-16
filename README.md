@@ -19,7 +19,6 @@
 
 ## 🎶 My Jam
 **"Rich Spirit" by Kendrick Lamar**  
-- A journey of evolution & inner clarity
 👉 [Watch on YouTube](https://www.youtube.com/watch?v=hl3-ZPg-JAA)
 
 ---
