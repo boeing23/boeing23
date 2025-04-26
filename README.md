@@ -9,7 +9,8 @@
 # Yashodhan Deepak Hakke
 
 ## 🙋‍♂️ About Me
-- **Engineer** focused on **AI** and **Machine Learning**  
+- **Engineer** focused on **AI** and **Machine Learning**
+- Experienced in using modern AI-powered development environments to build, scale, and deploy production-ready apps
 - If I had to tell my chart toppers:  
   - **Anime**: *One Piece*  
   - **Book**: *Thinking, Fast and Slow*  
