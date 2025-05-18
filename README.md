@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="(https://github.com/boeing23/assets/blob/main/YashodhanDCpic.PNG)" alt="Your Profile Picture" width="400"/>
+  <img src="https://github.com/boeing23/assets/blob/main/luffy.png" alt="Your Profile Picture" width="400"/>
 </p>
 <p align="center">
   <img src="https://github.com/boeing23/assets/blob/main/bo.svg" "width="400"/>
