@@ -25,7 +25,7 @@
 ---
 
 ## 📄 Resume
-[Download Resume](https://github.com/boeing23/assets/blob/main/YashodhanCV04_12.pdf)
+[Download Resume](https://github.com/boeing23/assets/blob/main/YashodhanCV11_09.pdf)
 
 ---
 
